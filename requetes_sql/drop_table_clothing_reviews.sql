@@ -1,3 +1,3 @@
-USE sentiment_analysis;
+USE sentiment_analysis_bdd;
 SET FOREIGN_KEY_CHECKS=0;
-DROP TABLE clothing_reviews;
+DROP TABLE reviews;
