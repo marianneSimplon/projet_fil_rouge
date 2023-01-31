@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/9c1af4e4d266435c887d60ff98acbf7f/artifacts
+deleted_time: 1674691230165
+end_time: 1674691173026
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 9c1af4e4d266435c887d60ff98acbf7f
+run_name: invincible-slug-208
+run_uuid: 9c1af4e4d266435c887d60ff98acbf7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691162582
+status: 3
+tags: []
+user_id: Admin

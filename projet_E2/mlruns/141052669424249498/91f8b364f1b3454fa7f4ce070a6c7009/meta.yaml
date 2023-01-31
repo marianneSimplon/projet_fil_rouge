@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/91f8b364f1b3454fa7f4ce070a6c7009/artifacts
+deleted_time: 1674690697732
+end_time: 1674689351726
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 91f8b364f1b3454fa7f4ce070a6c7009
+run_name: indecisive-snake-523
+run_uuid: 91f8b364f1b3454fa7f4ce070a6c7009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674689344054
+status: 3
+tags: []
+user_id: Admin

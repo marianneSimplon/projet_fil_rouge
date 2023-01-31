@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/1c30ece320214882962503f52c486153/artifacts
+deleted_time: 1674691710638
+end_time: 1674691456197
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 1c30ece320214882962503f52c486153
+run_name: skittish-crab-617
+run_uuid: 1c30ece320214882962503f52c486153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691444460
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/69c686b1681e4b0d9639b9b73357298e/artifacts
+deleted_time: 1674691230221
+end_time: 1674691120066
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 69c686b1681e4b0d9639b9b73357298e
+run_name: honorable-boar-731
+run_uuid: 69c686b1681e4b0d9639b9b73357298e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691108343
+status: 3
+tags: []
+user_id: Admin

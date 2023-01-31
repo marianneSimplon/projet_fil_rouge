@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/59396947f8c6462788a04b7fc8f54c30/artifacts
+deleted_time: 1674690697716
+end_time: 1674689334789
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 59396947f8c6462788a04b7fc8f54c30
+run_name: ambitious-roo-537
+run_uuid: 59396947f8c6462788a04b7fc8f54c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674689326516
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/c44bfca443484c8080751bd3067a4119/artifacts
+deleted_time: 1674691230239
+end_time: 1674691085013
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: c44bfca443484c8080751bd3067a4119
+run_name: intrigued-ray-539
+run_uuid: c44bfca443484c8080751bd3067a4119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691073234
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/43d424bd13ad40e4b8500d135088c6fa/artifacts
+deleted_time: 1674691710498
+end_time: 1674691501720
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 43d424bd13ad40e4b8500d135088c6fa
+run_name: colorful-wasp-431
+run_uuid: 43d424bd13ad40e4b8500d135088c6fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691490345
+status: 3
+tags: []
+user_id: Admin

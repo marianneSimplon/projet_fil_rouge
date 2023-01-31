@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/596f2d453923496e8fc99c36d7d8f139/artifacts
+deleted_time: 1674690697597
+end_time: 1674690464727
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 596f2d453923496e8fc99c36d7d8f139
+run_name: placid-shad-815
+run_uuid: 596f2d453923496e8fc99c36d7d8f139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690452943
+status: 3
+tags: []
+user_id: Admin

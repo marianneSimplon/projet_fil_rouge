@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/cfe4d6c4e3564e1885d6c629163f8725/artifacts
+deleted_time: 1674690697642
+end_time: 1674689404790
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: cfe4d6c4e3564e1885d6c629163f8725
+run_name: capable-gull-903
+run_uuid: cfe4d6c4e3564e1885d6c629163f8725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674689396237
+status: 3
+tags: []
+user_id: Admin

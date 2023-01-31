@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/f82b0e39bf0545e5a66d5cf94e639fc4/artifacts
+deleted_time: 1674691230563
+end_time: 1674690827907
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: f82b0e39bf0545e5a66d5cf94e639fc4
+run_name: able-squirrel-120
+run_uuid: f82b0e39bf0545e5a66d5cf94e639fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690814873
+status: 3
+tags: []
+user_id: Admin

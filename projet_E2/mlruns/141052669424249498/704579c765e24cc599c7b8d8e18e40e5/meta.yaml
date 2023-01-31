@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/704579c765e24cc599c7b8d8e18e40e5/artifacts
+deleted_time: 1674691710414
+end_time: 1674691582659
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 704579c765e24cc599c7b8d8e18e40e5
+run_name: invincible-mole-809
+run_uuid: 704579c765e24cc599c7b8d8e18e40e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691570163
+status: 3
+tags: []
+user_id: Admin

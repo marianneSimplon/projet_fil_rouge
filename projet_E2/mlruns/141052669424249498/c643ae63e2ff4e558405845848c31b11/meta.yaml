@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/c643ae63e2ff4e558405845848c31b11/artifacts
+deleted_time: 1674691230523
+end_time: 1674690852725
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: c643ae63e2ff4e558405845848c31b11
+run_name: casual-elk-542
+run_uuid: c643ae63e2ff4e558405845848c31b11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690839845
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/15b0e550f2f94432a1a7493c2aa041d2/artifacts
+deleted_time: 1674691710800
+end_time: 1674691331247
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 15b0e550f2f94432a1a7493c2aa041d2
+run_name: amusing-dove-318
+run_uuid: 15b0e550f2f94432a1a7493c2aa041d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691318606
+status: 3
+tags: []
+user_id: Admin

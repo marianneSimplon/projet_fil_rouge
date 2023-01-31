@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/657fe5d98d9d42c8849e39023835f319/artifacts
+deleted_time: 1674691230468
+end_time: 1674690865160
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 657fe5d98d9d42c8849e39023835f319
+run_name: capricious-perch-156
+run_uuid: 657fe5d98d9d42c8849e39023835f319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690852906
+status: 3
+tags: []
+user_id: Admin

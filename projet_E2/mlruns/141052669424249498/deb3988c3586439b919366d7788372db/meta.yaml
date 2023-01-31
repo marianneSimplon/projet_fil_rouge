@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/deb3988c3586439b919366d7788372db/artifacts
+deleted_time: 1674691710445
+end_time: 1674691546632
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: deb3988c3586439b919366d7788372db
+run_name: respected-vole-663
+run_uuid: deb3988c3586439b919366d7788372db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691535708
+status: 3
+tags: []
+user_id: Admin

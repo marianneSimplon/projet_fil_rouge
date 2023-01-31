@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/91e1f5adf0a14f42836f120df3c31c0a/artifacts
+deleted_time: 1674691230510
+end_time: 1674690839682
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 91e1f5adf0a14f42836f120df3c31c0a
+run_name: valuable-stag-982
+run_uuid: 91e1f5adf0a14f42836f120df3c31c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690828069
+status: 3
+tags: []
+user_id: Admin

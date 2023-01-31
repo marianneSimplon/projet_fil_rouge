@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/b5ef7606bbab47dd8e8e813fb36bb1a6/artifacts
+deleted_time: 1674691710731
+end_time: 1674691377466
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: b5ef7606bbab47dd8e8e813fb36bb1a6
+run_name: nervous-fly-482
+run_uuid: b5ef7606bbab47dd8e8e813fb36bb1a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691366511
+status: 3
+tags: []
+user_id: Admin

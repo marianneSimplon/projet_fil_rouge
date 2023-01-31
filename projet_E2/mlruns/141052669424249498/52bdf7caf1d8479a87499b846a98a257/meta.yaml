@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/52bdf7caf1d8479a87499b846a98a257/artifacts
+deleted_time: 1674691710730
+end_time: 1674691355127
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 52bdf7caf1d8479a87499b846a98a257
+run_name: rare-shrew-636
+run_uuid: 52bdf7caf1d8479a87499b846a98a257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691344155
+status: 3
+tags: []
+user_id: Admin

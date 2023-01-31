@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/42ae626592ef4b6d9ec5c197e2250ad3/artifacts
+deleted_time: 1674691230478
+end_time: 1674690877056
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 42ae626592ef4b6d9ec5c197e2250ad3
+run_name: kindly-lark-624
+run_uuid: 42ae626592ef4b6d9ec5c197e2250ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690865306
+status: 3
+tags: []
+user_id: Admin

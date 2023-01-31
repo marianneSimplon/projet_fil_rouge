@@ -1,0 +1,4 @@
+{
+  "KNeighborsRegressor_score-2_X_test": "KNeighborsRegressor.score(X=X_test, y=y_test)",
+  "KNeighborsRegressor_score_X_train": "KNeighborsRegressor.score(X=X_train, y=y_train)"
+}

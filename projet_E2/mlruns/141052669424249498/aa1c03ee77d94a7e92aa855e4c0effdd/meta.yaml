@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/aa1c03ee77d94a7e92aa855e4c0effdd/artifacts
+deleted_time: 1674691710378
+end_time: 1674691616400
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: aa1c03ee77d94a7e92aa855e4c0effdd
+run_name: capricious-rook-966
+run_uuid: aa1c03ee77d94a7e92aa855e4c0effdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691605250
+status: 3
+tags: []
+user_id: Admin

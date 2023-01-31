@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/385970a876134de6be896e9940bb144a/artifacts
+deleted_time: 1674691230180
+end_time: 1674691151752
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 385970a876134de6be896e9940bb144a
+run_name: awesome-mule-32
+run_uuid: 385970a876134de6be896e9940bb144a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691134870
+status: 3
+tags: []
+user_id: Admin

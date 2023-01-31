@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/d43a7e91f4954a10b1b2bcfb128208aa/artifacts
+deleted_time: 1674691710533
+end_time: 1674691444289
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: d43a7e91f4954a10b1b2bcfb128208aa
+run_name: delightful-jay-162
+run_uuid: d43a7e91f4954a10b1b2bcfb128208aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691433156
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/0e55d0b3b22040d09b5a3fb16544d525/artifacts
+deleted_time: 1674691710457
+end_time: 1674691535546
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 0e55d0b3b22040d09b5a3fb16544d525
+run_name: learned-kite-530
+run_uuid: 0e55d0b3b22040d09b5a3fb16544d525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691524198
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/7f7c17db53f64023b00d03223ba4fe61/artifacts
+deleted_time: 1674691710408
+end_time: 1674691593860
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 7f7c17db53f64023b00d03223ba4fe61
+run_name: enchanting-rat-821
+run_uuid: 7f7c17db53f64023b00d03223ba4fe61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691582822
+status: 3
+tags: []
+user_id: Admin

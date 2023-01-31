@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/20f8e6d81f6f409bbccc23310ea731a3/artifacts
+deleted_time: 1674691230161
+end_time: 1674691183486
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 20f8e6d81f6f409bbccc23310ea731a3
+run_name: upbeat-shrimp-121
+run_uuid: 20f8e6d81f6f409bbccc23310ea731a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691173199
+status: 3
+tags: []
+user_id: Admin

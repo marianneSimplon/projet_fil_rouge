@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/5bfd72287ffb4889a3f8632be81735ea/artifacts
+deleted_time: 1674691230312
+end_time: 1674690996118
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 5bfd72287ffb4889a3f8632be81735ea
+run_name: beautiful-dog-722
+run_uuid: 5bfd72287ffb4889a3f8632be81735ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690984275
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/a3e4a24d9245403997bacbe7e333a0e9/artifacts
+deleted_time: 1674691230515
+end_time: 1674690813902
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: a3e4a24d9245403997bacbe7e333a0e9
+run_name: carefree-trout-573
+run_uuid: a3e4a24d9245403997bacbe7e333a0e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690800744
+status: 3
+tags: []
+user_id: Admin

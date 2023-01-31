@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/64290b8fd0214d6e90b4bcdc91b23a34/artifacts
+deleted_time: 1674691710509
+end_time: 1674691512851
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 64290b8fd0214d6e90b4bcdc91b23a34
+run_name: silent-bee-723
+run_uuid: 64290b8fd0214d6e90b4bcdc91b23a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691501885
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/723eccbe19e64784be60644e8ffe6880/artifacts
+deleted_time: 1674691230276
+end_time: 1674691046810
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 723eccbe19e64784be60644e8ffe6880
+run_name: angry-midge-386
+run_uuid: 723eccbe19e64784be60644e8ffe6880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691035222
+status: 3
+tags: []
+user_id: Admin

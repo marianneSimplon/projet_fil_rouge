@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/c65da11a83cf47dba1df940feda9bf34/artifacts
+deleted_time: 1674690697688
+end_time: 1674689378222
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: c65da11a83cf47dba1df940feda9bf34
+run_name: illustrious-calf-687
+run_uuid: c65da11a83cf47dba1df940feda9bf34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674689369417
+status: 3
+tags: []
+user_id: Admin

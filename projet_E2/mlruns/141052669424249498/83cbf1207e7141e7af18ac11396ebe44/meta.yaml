@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/83cbf1207e7141e7af18ac11396ebe44/artifacts
+deleted_time: 1674691230373
+end_time: 1674690984109
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 83cbf1207e7141e7af18ac11396ebe44
+run_name: spiffy-steed-562
+run_uuid: 83cbf1207e7141e7af18ac11396ebe44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690972563
+status: 3
+tags: []
+user_id: Admin

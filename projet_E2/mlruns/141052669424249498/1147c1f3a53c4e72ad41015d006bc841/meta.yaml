@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/1147c1f3a53c4e72ad41015d006bc841/artifacts
+deleted_time: 1674690697510
+end_time: 1674689326279
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 1147c1f3a53c4e72ad41015d006bc841
+run_name: puzzled-fowl-757
+run_uuid: 1147c1f3a53c4e72ad41015d006bc841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674689310030
+status: 3
+tags: []
+user_id: Admin

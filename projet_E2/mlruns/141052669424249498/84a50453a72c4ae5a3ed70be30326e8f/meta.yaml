@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/84a50453a72c4ae5a3ed70be30326e8f/artifacts
+deleted_time: 1674690697645
+end_time: 1674689396052
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 84a50453a72c4ae5a3ed70be30326e8f
+run_name: fun-midge-49
+run_uuid: 84a50453a72c4ae5a3ed70be30326e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674689388282
+status: 3
+tags: []
+user_id: Admin

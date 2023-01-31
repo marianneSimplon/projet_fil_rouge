@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/4aa7651c3d0c46f1abb7bd3cb46acb5b/artifacts
+deleted_time: 1674690697567
+end_time: 1674690569370
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 4aa7651c3d0c46f1abb7bd3cb46acb5b
+run_name: dapper-hen-142
+run_uuid: 4aa7651c3d0c46f1abb7bd3cb46acb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690555072
+status: 3
+tags: []
+user_id: Admin

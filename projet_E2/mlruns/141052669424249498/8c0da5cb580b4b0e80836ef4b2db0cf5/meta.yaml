@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/8c0da5cb580b4b0e80836ef4b2db0cf5/artifacts
+deleted_time: 1674691710632
+end_time: 1674691400264
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 8c0da5cb580b4b0e80836ef4b2db0cf5
+run_name: adorable-fowl-508
+run_uuid: 8c0da5cb580b4b0e80836ef4b2db0cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691389225
+status: 3
+tags: []
+user_id: Admin

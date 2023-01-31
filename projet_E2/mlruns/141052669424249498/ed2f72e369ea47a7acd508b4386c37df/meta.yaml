@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/ed2f72e369ea47a7acd508b4386c37df/artifacts
+deleted_time: 1674691230380
+end_time: 1674691011050
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: ed2f72e369ea47a7acd508b4386c37df
+run_name: indecisive-deer-878
+run_uuid: ed2f72e369ea47a7acd508b4386c37df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690996279
+status: 3
+tags: []
+user_id: Admin

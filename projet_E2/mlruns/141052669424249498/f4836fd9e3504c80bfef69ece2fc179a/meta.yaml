@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/f4836fd9e3504c80bfef69ece2fc179a/artifacts
+deleted_time: 1674690697516
+end_time: 1674662205669
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: f4836fd9e3504c80bfef69ece2fc179a
+run_name: beautiful-croc-707
+run_uuid: f4836fd9e3504c80bfef69ece2fc179a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674662194981
+status: 3
+tags: []
+user_id: Admin

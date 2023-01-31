@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/8ed9e3fdb57d4c7ea1b40e2ed5a78aa9/artifacts
+deleted_time: 1674691710363
+end_time: 1674691639248
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 8ed9e3fdb57d4c7ea1b40e2ed5a78aa9
+run_name: brawny-gull-686
+run_uuid: 8ed9e3fdb57d4c7ea1b40e2ed5a78aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691628341
+status: 3
+tags: []
+user_id: Admin

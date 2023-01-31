@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/8243735953e8422b8bbc027119bb897b/artifacts
+end_time: 1674691183854
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: active
+run_id: 8243735953e8422b8bbc027119bb897b
+run_name: KNN_2
+run_uuid: 8243735953e8422b8bbc027119bb897b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691183690
+status: 3
+tags: []
+user_id: Admin

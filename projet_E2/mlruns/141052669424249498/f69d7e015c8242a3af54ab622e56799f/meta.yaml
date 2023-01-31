@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/f69d7e015c8242a3af54ab622e56799f/artifacts
+deleted_time: 1674690697515
+end_time: 1674690584447
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: f69d7e015c8242a3af54ab622e56799f
+run_name: agreeable-mole-844
+run_uuid: f69d7e015c8242a3af54ab622e56799f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690569775
+status: 3
+tags: []
+user_id: Admin

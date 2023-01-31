@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/15cb5c0391244b34bb3ff7341abec239/artifacts
+deleted_time: 1674691710492
+end_time: 1674691490177
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 15cb5c0391244b34bb3ff7341abec239
+run_name: bald-penguin-474
+run_uuid: 15cb5c0391244b34bb3ff7341abec239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691479164
+status: 3
+tags: []
+user_id: Admin

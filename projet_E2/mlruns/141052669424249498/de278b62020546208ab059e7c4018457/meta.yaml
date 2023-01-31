@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/de278b62020546208ab059e7c4018457/artifacts
+deleted_time: 1674691230217
+end_time: 1674691108181
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: de278b62020546208ab059e7c4018457
+run_name: dashing-snail-818
+run_uuid: de278b62020546208ab059e7c4018457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691096701
+status: 3
+tags: []
+user_id: Admin

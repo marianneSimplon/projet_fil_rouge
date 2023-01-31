@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/7923521c02974cd6871d86ad96b8d212/artifacts
+deleted_time: 1674691230223
+end_time: 1674691096526
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 7923521c02974cd6871d86ad96b8d212
+run_name: able-fowl-232
+run_uuid: 7923521c02974cd6871d86ad96b8d212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691085168
+status: 3
+tags: []
+user_id: Admin

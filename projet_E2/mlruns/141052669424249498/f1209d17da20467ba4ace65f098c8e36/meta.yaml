@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/f1209d17da20467ba4ace65f098c8e36/artifacts
+deleted_time: 1674691230474
+end_time: 1674690900782
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: f1209d17da20467ba4ace65f098c8e36
+run_name: adorable-lamb-898
+run_uuid: f1209d17da20467ba4ace65f098c8e36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690889048
+status: 3
+tags: []
+user_id: Admin

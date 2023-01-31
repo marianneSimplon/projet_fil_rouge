@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/c904e4fd7759478da163156ed6ed69ed/artifacts
+deleted_time: 1674691710379
+end_time: 1674691605073
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: c904e4fd7759478da163156ed6ed69ed
+run_name: serious-cod-865
+run_uuid: c904e4fd7759478da163156ed6ed69ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691594034
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/596623a6c7b1434bb711076173d90111/artifacts
+deleted_time: 1674691710435
+end_time: 1674691558222
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 596623a6c7b1434bb711076173d90111
+run_name: handsome-cod-470
+run_uuid: 596623a6c7b1434bb711076173d90111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691546793
+status: 3
+tags: []
+user_id: Admin

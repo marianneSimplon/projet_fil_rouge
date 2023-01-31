@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/277b93835a4a4c75b984e38f2f5b04c6/artifacts
+deleted_time: 1674691710625
+end_time: 1674691422462
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 277b93835a4a4c75b984e38f2f5b04c6
+run_name: lyrical-donkey-354
+run_uuid: 277b93835a4a4c75b984e38f2f5b04c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691411586
+status: 3
+tags: []
+user_id: Admin

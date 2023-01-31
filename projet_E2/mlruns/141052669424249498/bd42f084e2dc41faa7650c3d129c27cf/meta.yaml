@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/bd42f084e2dc41faa7650c3d129c27cf/artifacts
+deleted_time: 1674691230289
+end_time: 1674691023111
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: bd42f084e2dc41faa7650c3d129c27cf
+run_name: peaceful-perch-306
+run_uuid: bd42f084e2dc41faa7650c3d129c27cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691011258
+status: 3
+tags: []
+user_id: Admin

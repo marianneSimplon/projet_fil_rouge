@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/86ea2539cd0041b39a8345f870b2be59/artifacts
+deleted_time: 1674691230448
+end_time: 1674690924576
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 86ea2539cd0041b39a8345f870b2be59
+run_name: lyrical-stork-250
+run_uuid: 86ea2539cd0041b39a8345f870b2be59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690912822
+status: 3
+tags: []
+user_id: Admin

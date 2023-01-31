@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/31fe703d03834049a61a5ca2f1ebaf7b/artifacts
+deleted_time: 1674691230430
+end_time: 1674690936629
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: 31fe703d03834049a61a5ca2f1ebaf7b
+run_name: unleashed-hound-308
+run_uuid: 31fe703d03834049a61a5ca2f1ebaf7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674690924745
+status: 3
+tags: []
+user_id: Admin

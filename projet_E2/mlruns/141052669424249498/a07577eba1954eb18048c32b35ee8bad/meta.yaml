@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Admin/Documents/marianneSimplon/simplon/sentiment_analysis/projet_E2/mlruns/141052669424249498/a07577eba1954eb18048c32b35ee8bad/artifacts
+deleted_time: 1674691710329
+end_time: 1674691650601
+entry_point_name: ''
+experiment_id: '141052669424249498'
+lifecycle_stage: deleted
+run_id: a07577eba1954eb18048c32b35ee8bad
+run_name: burly-bear-13
+run_uuid: a07577eba1954eb18048c32b35ee8bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674691639420
+status: 3
+tags: []
+user_id: Admin
